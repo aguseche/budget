@@ -3,11 +3,13 @@
 [11/3/21 11:38:09] Eche: 3000 comida mosqui
 [11/3/21 11:38:23] Eche: 2500 auto nafta
 [11/3/21 11:38:39] Eche: 700 auto lavado
+[11/4/21 11:38:23] Eche: 2500 auto nafta
+[11/4/21 11:38:39] Eche: 1400 auto lavado
 [11/3/21 11:39:08] Eche: 1000 salida
 [11/3/21 11:39:21] Eche: 5000 casa super
 [11/3/21 11:40:14] Sofi: 1000 extra templado sofi
 [11/3/21 11:40:30] Sofi: 170 comida cerveza sofi
-[11/3/21 11:40:45] Sofi: 700 comida merienda
+[11/3/21 11:40:45] Sofi: 7000 comida merienda
 [12/3/21 13:46:20] Eche: ‎Eliminaste este mensaje.
 [12/3/21 13:46:42] Sofi: ‎Este mensaje fue eliminado.
 ‎[12/3/21 13:54:39] Eche: final 25-02-21.pdf • ‎1 página ‎documento omitido
@@ -16,4 +18,17 @@
 ‎[12/3/21 13:55:30] Sofi: ‎sticker omitido
 ‎[12/3/21 13:55:35] Sofi: ‎sticker omitido
 ‎[12/3/21 13:56:30] Sofi: ‎imagen omitida
-[18/3/21 11:36:08] Eche: 1000 casa ultima prueba
+[18/3/21 11:36:08] Eche: 1000 casa gastos depto
+[11/4/21 11:37:59] Eche: 1500 Regalo erik
+[11/4/21 11:38:09] Eche: 3000 comida pescado
+
+[11/4/21 11:39:08] Eche: 1000 salida
+[11/4/21 11:39:21] Eche: 500 casa super
+[11/4/21 11:40:14] Sofi: 5000 salida
+[11/2/21 11:37:59] Eche: 1500 Regalo tomi
+[11/2/21 11:38:09] Eche: 1000 comida mosqui
+[11/2/21 11:38:23] Eche: 2500 auto nafta
+[11/2/21 11:38:39] Eche: 700 auto lavado
+[11/2/21 11:40:14] Sofi: 1000 extra templado sofi
+[11/1/21 11:40:14] Sofi: 1000 extra templado sofi
+[11/12/20 11:40:14] Sofi: 800 extra templado sofi

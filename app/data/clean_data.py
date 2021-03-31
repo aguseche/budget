@@ -27,7 +27,7 @@ def get_clean_data():
     df.drop(['Time'], axis = 1, inplace = True) 
 
     #rephrase date 
-    df['Date'] = df['Date'].str.replace('[', '')
+    df['Date'] = df['Date'].str.replace('[', '', regex=True)
 
     #Convert type to datetime
     df['Date'] = pd.to_datetime(df['Date'], errors="coerce",dayfirst=True)    
@@ -41,5 +41,7 @@ def get_clean_data():
     #Set Type and Description to Lower Case
     df['Type'] = df['Type'].str.lower()
     df['Description'] = df['Description'].str.lower()
+
+    df['Month_year'] = pd.to_datetime(df['Date']).dt.to_period('M')
 
     return df
