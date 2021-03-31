@@ -6,4 +6,4 @@ charts_folders = ['barcharts', 'piecharts']
 data_dir = Path('data')
 data_path = data_dir / '_chat.txt'
 
-results_dir = Path('app/results')
+results_dir = Path('results')
